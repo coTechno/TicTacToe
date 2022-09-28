@@ -44,11 +44,12 @@ nav ul{
     background-color: rgb(247, 206, 152);
 }
 .info{
+    text-align: center;
     font-size: 32px;
     margin-bottom: 20px;
 }
 .gameInfo{
-    padding: 0 34px;
+    padding: 34px 34px;
     font-family: 'Baloo Bhaina 2', cursive;
 }
 .gameInfo h1{
